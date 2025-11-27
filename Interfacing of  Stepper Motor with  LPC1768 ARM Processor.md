@@ -9,6 +9,7 @@ HARDWARE: ARM LPC 1768 STEPPER MOTOR.
 
 SOFTWARE: KEIL MICRO VISION 4.0 IDE
 
+
 # PROCEDURE:
 ⮚ Open the Keil software and select the New uvision project from Project Menu as shown below. 
 
