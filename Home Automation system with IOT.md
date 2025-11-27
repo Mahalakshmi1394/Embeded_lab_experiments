@@ -13,6 +13,7 @@ To make a Lamp at home (230 V AC) On / Off using ESP8266, IFTT Google Assistance
 	9 W Bulb and Relay control
 	Arduino software 
 	Jumper Wires
+	
 
 # Circuit Diagram:
 
