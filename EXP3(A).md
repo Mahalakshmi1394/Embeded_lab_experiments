@@ -1,5 +1,5 @@
-## Name: BHUVANESWARAN A
-## Reg No: 212223060031
+## NAME: MAHALAKSHMI U
+## REG NO: 212222060141
 ## Slot : 4X4-5
 
 # Anti-Theft-Alert-System-using-Tilt-Sensor
